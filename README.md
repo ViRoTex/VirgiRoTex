@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VirgiRoTex</h1>
+<h1 align="center">Hi 👋, I'm ViRoTex</h1>
 <h3 align="center">A Biologist/Biotecnologist interesed in Data Science from Spain</h3>
 
 - 🌱 I’m currently learning **courses about programming languages as Python, R, SQL and Data Science**
